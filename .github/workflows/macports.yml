@@ -21,7 +21,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        CROSS_OVER_VERSION: [23.0.1] # 23.0.0
+        CROSS_OVER_VERSION: [23.7.1]
 
     runs-on: macos-latest
 
